@@ -16,6 +16,7 @@ for d,e in dict.items():
 
 #how to declare a dictionary;
 
+
 """
 
 d={"Roll":1,"Name":"Abhishek","Phone":85248,"Address":"Uttam nagar"};
